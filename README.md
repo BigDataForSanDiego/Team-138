@@ -10,7 +10,7 @@
 
 #### A visual
 
-<img height="10%" width="50%" alt="HDMA" src="https://www.canva.com/design/DAGRSPcFxaA/hF0aknKC_dJAGB1-Lkxzew/view?utm_content=DAGRSPcFxaA&utm_campaign=designshare&utm_medium=link&utm_source=editor"> 
+<img height="10%" width="50%" alt="HDMA" src=""> 
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
