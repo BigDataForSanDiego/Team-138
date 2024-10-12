@@ -9,7 +9,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
+
 <img height="10%" width="50%" alt="HDMA" src="https://www.canva.com/design/DAGRSPcFxaA/hF0aknKC_dJAGB1-Lkxzew/view?utm_content=DAGRSPcFxaA&utm_campaign=designshare&utm_medium=link&utm_source=editor"> 
 
 <!--
