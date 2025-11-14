@@ -1,4 +1,4 @@
-# CareLink SD — Telehealth MVP
+# CareLink SD
 
 A low-friction telehealth application for unhoused neighbors in San Diego County. Built for the Hackathon: Innovating to Tackle Homelessness.
 
