@@ -9,7 +9,7 @@
 #### Team Members `Jimmy Ly (jimmyyyly), Eric Curiel, Luciana Erquiaga (Lucoll861) `
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `CareLink SD is a comprehensive support platform that connects unhoused individuals in San Diego County with real-time access to telehealth, shelters, food, hygiene, medical care, and community resources through a single, mobile-friendly interface.`
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
